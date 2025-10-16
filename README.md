@@ -4,7 +4,7 @@
 
 ## Project Summary
 
-When a person or boat goes missing in the Arctic, local Search and Rescue (SAR) teams must cover large areas very quickly. Most searches today use **drones** and **thermal cameras** (FLIR) that detect **heat**. This technology works best when there’s a strong temperature difference between people and the ground. But thermal sensors have trouble when people wear insulated clothing or are no longer warm. 
+When a person or boat goes missing in the Arctic, local Search and Rescue (SAR) teams must cover large areas very quickly. Most searches today use **drones** and **thermal cameras** (FLIR) that detect **heat**. This technology works best when there’s a strong temperature difference between people and the ground. But thermal sensors have trouble when people wear insulated clothing or are no longer warm.
 
 **Hyperspectral imaging** is different. Instead of measuring heat, it captures **hundreds of narrow colors of light** that reflect from different materials, such as life jackets, boats, or human skin. Every object has a unique “spectral fingerprint.” By teaching the computer what these fingerprints look like, hyperspectral cameras can find people or debris when thermal sensors can't.
 
