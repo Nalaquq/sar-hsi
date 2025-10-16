@@ -12,8 +12,6 @@ Because the Yukon–Kuskokwim (Y–K) Delta is so big and hard to reach, **manne
 
 ![HSI vs FLIR](assets/images/infographic.png)
 
----
-
 ## Summary Table of Past Research
 
 | No. | Citation | Platform | Sensor Type / Range | Main Application | SAR Relevance | URL |
