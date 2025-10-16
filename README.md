@@ -1,4 +1,4 @@
-# Arctic SAR — Hyperspectral Imaging for Search & Rescue 
+# Arctic SAR: Hyperspectral Imaging for Search & Rescue 
 
 *Last updated: 2025-10-16*
 
