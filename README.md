@@ -1,4 +1,4 @@
-# Y–K Delta SAR — Hyperspectral Imaging for Search & Rescue (Working Literature Review)
+# Arctic SAR — Hyperspectral Imaging for Search & Rescue 
 
 *Last updated: 2025-10-16*
 
