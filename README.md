@@ -8,6 +8,8 @@ When a person or boat goes missing in the Arctic, local Search and Rescue (SAR) 
 
 **Hyperspectral imaging** is different. Instead of measuring heat, it captures **hundreds of narrow colors of light** that reflect from different materials, such as life jackets, boats, or human skin. Every object has a unique “spectral fingerprint.” By teaching the computer what these fingerprints look like, hyperspectral cameras can find people or debris when thermal sensors can't.
 
+![HSI vs FLIR](assets/images/thermal.png)
+
 Because the Yukon–Kuskokwim (Y–K) Delta is so big and hard to reach, **manned aircraft** are better for this system than small drones. Aircraft can carry heavier sensors, cover hundreds of miles, and stay in the air for hours. Drones are excellent for local follow-up, but airplanes are faster for wide-area searches after storms. Our proposal would combine Nalaquq’s experience in local SAR training with new **real-time hyperspectral imaging** developed by Jayson Boubin (SUNY-B) to help villages like Quinhagak, Eek, and Goodnews detect people and boats quickly and safely.
 
 ![HSI vs FLIR](assets/images/infographic.png)
