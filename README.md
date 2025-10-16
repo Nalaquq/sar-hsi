@@ -12,7 +12,7 @@ Because the Yukon–Kuskokwim (Y–K) Delta is so big and hard to reach, **manne
 
 ---
 
-## Summary Table of Key Studies
+## Summary Table of Past Research
 
 | No. | Citation | Platform | Sensor Type / Range | Main Application | SAR Relevance | URL |
 | --- | -------- | -------- | -------------------- | ---------------- | -------------- | --- |
