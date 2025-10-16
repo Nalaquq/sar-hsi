@@ -13,15 +13,12 @@ When a person goes missing in the Arctic, Search and Rescue (SAR) teams must cov
 **Hyperspectral imaging** is different. Instead of measuring heat, it captures **hundreds of narrow colors of light** that reflect from different materials, such as life jackets, boats, or human skin. Every object has a unique “spectral fingerprint.” By teaching the computer what these fingerprints look like, hyperspectral cameras can find people or debris when thermal sensors can't.
 
 <div align="center">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/ayp7hP0Xr8Q?start=76"
-    title="Arctic SAR Hyperspectral Video"
-    style="max-width: 100%; aspect-ratio: 16 / 9; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+  <a href="https://www.youtube.com/watch?v=ayp7hP0Xr8Q&t=76s" target="_blank">
+    <img src="https://img.youtube.com/vi/ayp7hP0Xr8Q/0.jpg" alt="Arctic SAR Hyperspectral Video"
+      style="max-width: 100%; height: auto; width: 600px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+  </a>
 </div>
+
 
 Because search areas can be big and hard to reach, **manned aircraft** are better than small drones. Aircraft can carry heavier sensors, cover hundreds of miles, and stay in the air for hours. Drones are excellent for local follow-up, but airplanes are faster for wide-area searches. Our proposal would combine Nalaquq’s experience in local SAR training with new **real-time hyperspectral imaging** developed by Jayson Boubin (SUNY-B) to help villages like Quinhagak, Eek, and Goodnews detect people and boats quickly and safely.
 
