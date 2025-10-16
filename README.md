@@ -6,13 +6,29 @@
 
 When a person goes missing in the Arctic, Search and Rescue (SAR) teams must cover large areas very quickly. Most searches today use **drones** and **thermal cameras** (FLIR) that detect **heat**. This technology works best when there’s a strong temperature difference between people and the ground. But thermal sensors have trouble when people wear insulated clothing or are no longer warm.
 
-![HSI vs FLIR](assets/images/thermal.png)
+<div align="center">
+  <img src="assets/images/thermal.png" alt="HSI vs FLIR" style="max-width: 100%; height: auto; width: 600px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+</div>
 
 **Hyperspectral imaging** is different. Instead of measuring heat, it captures **hundreds of narrow colors of light** that reflect from different materials, such as life jackets, boats, or human skin. Every object has a unique “spectral fingerprint.” By teaching the computer what these fingerprints look like, hyperspectral cameras can find people or debris when thermal sensors can't.
 
+<div align="center">
+  <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/ayp7hP0Xr8Q?start=76"
+    title="Arctic SAR Hyperspectral Video"
+    style="max-width: 100%; aspect-ratio: 16 / 9; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 Because search areas can be big and hard to reach, **manned aircraft** are better than small drones. Aircraft can carry heavier sensors, cover hundreds of miles, and stay in the air for hours. Drones are excellent for local follow-up, but airplanes are faster for wide-area searches. Our proposal would combine Nalaquq’s experience in local SAR training with new **real-time hyperspectral imaging** developed by Jayson Boubin (SUNY-B) to help villages like Quinhagak, Eek, and Goodnews detect people and boats quickly and safely.
 
-![HSI vs FLIR](assets/images/infographic.png)
+<div align="center">
+  <img src="assets/images/infographic.png" alt="HSI vs FLIR Infographic" style="max-width: 100%; height: auto; width: 600px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+</div>
+
 
 ## Summary Table of Past Research
 
@@ -32,12 +48,9 @@ Because search areas can be big and hard to reach, **manned aircraft** are bette
 
 ## Next Steps for Our Working Group
 
-- Establish working group with releveant interested research teams (ADOT, UiT, SUNY-B, Scott Polar, Nalaquq)
+- Establish working group with relevant research teams (ADOT, UiT, SUNY-B, Scott Polar, Nalaquq)
 - Determine funding priorities, in-kind contributions, etc.  
-- Develop a **Arctic spectral library** including local materials (PFDs, aluminum skiffs, float coats, snowmachines).
+- Develop an **Arctic spectral library** including local materials (PFDs, aluminum skiffs, float coats, snowmachines).
 - Select data collection sites and secure requisite permissions for flights. 
 - Employ **manned aircraft** for regional coverage, with **drones** for follow-up verification.  
 - Ensure all data collection follows **Nalaquq’s co-production principles** for community control and training.
-
----
-
